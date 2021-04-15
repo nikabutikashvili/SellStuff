@@ -7,7 +7,6 @@ import {
   Modal,
   Button,
   FlatList,
-  Text,
 } from "react-native";
 import { MaterialCommunityIcons } from "@expo/vector-icons";
 import colors from "../config/colors";
